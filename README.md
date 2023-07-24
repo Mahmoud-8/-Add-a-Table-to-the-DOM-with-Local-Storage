@@ -1,13 +1,12 @@
 # Add a Table to the DOM with Local Storage
 ![Alt text](<Screenshot 2023-07-24 at 8.36.17 PM.png>)
+
 This code snippet demonstrates how to add a table to the DOM using HTML, CSS, and JavaScript. The table can store data for individuals,
 including their ID, name, profession, and address. Additionally, the data entered is saved to the local storage of the browser.
 
 ## Table of Contents
 
 - [Description](#description)
-- [Usage](#usage)
-- [CSS Styles](#css-styles)
 
 ## Description
 
