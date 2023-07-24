@@ -17,4 +17,4 @@ The JavaScript code handles the process of adding data to the table when the "Ad
 creates a new row in the table, and appends the data to the table.
 
 Additionally, each row of the table has two buttons: "Delete" and "Update." The "Delete" button removes the corresponding row from the table when clicked,
-and the "Update" button will log a message to the console indicating that it has been clicked.
+and the "Update" button will  allow you to edit the data in the table directly. When you click the "Update" button for a row.
