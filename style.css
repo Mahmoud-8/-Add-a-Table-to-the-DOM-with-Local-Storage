@@ -1,0 +1,40 @@
+#table {
+    display: flex;
+    flex-direction: column;
+}
+
+#table td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    min-height: 10vh;
+    width: 900px;
+    background-color: aqua;
+}
+
+.input-container input {
+    margin-right: 10px;
+}
+#table button {
+    margin-right: 5px;
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#addTable{
+    margin-right: 5px;
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
